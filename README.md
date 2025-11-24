@@ -11,4 +11,4 @@ The "spark" in the name represents my exploration of Apache Spark (along with it
 7. Deploy solution using **AWS EC2** or **Vercel**, connecting to the backend using a lightweight API
 
 ## Gemini Response for The Pipeline
-<h>I asked Google Gemini for how I could set up the pipeline, and it created a comprehensive, AWS-based solution that goes from scraping procedure all the way to deployment. The details are more in depth compared to above, and are in `gemini-response.md`
+<h>I asked Google Gemini for how I could set up the pipeline, and it created a comprehensive, AWS-based solution that goes from scraping procedure all the way to deployment. The details are more in depth compared to above, and are in [`gemini-response.md`](https://github.com/ShubhanC/curly-waffle-spark/blob/main/gemini-response.md)
